@@ -85,7 +85,7 @@ if __name__ == '__main__':
     application = ApplicationBuilder().token(Config.TELEGRAM_TOKEN).build()
 
     start_handler_obj = CommandHandler("start", start_handler)
-    application.add_handler(start_handler_obj)-
+    application.add_handler(start_handler_obj)
 
     voice_msg_handler = MessageHandler(filters.VOICE, voice_handler)
     application.add_handler(voice_msg_handler)
