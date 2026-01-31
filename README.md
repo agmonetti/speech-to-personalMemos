@@ -8,6 +8,10 @@
 ![Memos](https://img.shields.io/badge/Memos-Integration-green?style=flat)
 
 ### Este bot está diseñado con una **Arquitectura de Microservicios** modular. Recibe audios, los procesa para cumplir con los estándares de Google (16kHz, 16-bit Mono), los transcribe usando IA y los sincroniza con tu cuenta personal de Memos.
+<p align="center">
+  <img src="public/road.png" width="700" />
+</p>
+
 ---
 
 ## Características
