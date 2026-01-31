@@ -7,7 +7,7 @@
 ![GCP](https://img.shields.io/badge/Google_Cloud-Speech_to_Text-red?style=flat&logo=google-cloud)
 ![Memos](https://img.shields.io/badge/Memos-Integration-green?style=flat)
 
-Este bot está diseñado con una **Arquitectura de Microservicios** modular. Recibe audios, los procesa para cumplir con los estándares de Google (16kHz, 16-bit Mono), los transcribe usando IA y los sincroniza con tu cuenta personal de Memos.
+### Este bot está diseñado con una **Arquitectura de Microservicios** modular. Recibe audios, los procesa para cumplir con los estándares de Google (16kHz, 16-bit Mono), los transcribe usando IA y los sincroniza con tu cuenta personal de Memos.
 ---
 
 ## Características
